@@ -3,7 +3,7 @@ a basic keypad that teleports the localplayer if they input the correct code
 there's not really any error handling its just meant to be really basic.
 
 how to use:
-- import the UnityPackage from [Releases]([https://example.com](https://github.com/FreneticFurry/VRChat-Udon-BasicKeypad/releases))
+- import the UnityPackage from [Releases]([https://example.com](https://github.com/FreneticFurry/VRChat-Udon-BasicKeypad/releases)
 - place the Keypad prefab into the scene
 - click the Keypad object and configure settings
 
