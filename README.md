@@ -14,6 +14,8 @@ should be pretty straight forward
 - Default Msg: this is the default msg people will see when clearing and when the object is spawned
 - Wrong Msg: this is the message seen when someone inputs the wrong cod
 
+if the keypad spawns with the word "ERROR" in runtime / within VRChat then that means the code failed or is not running
+
 as a side note: if you change the name of the key button objects under canvas then the text output will change to that since it uses the game object name but if it isnt a number then it will just clear it (remove IsNumeric from the code if you dont want it to do that.)
 
 <img width="301" height="390" alt="image" src="https://github.com/user-attachments/assets/7820c391-ae84-4e71-b224-4e344cc1dced" />
